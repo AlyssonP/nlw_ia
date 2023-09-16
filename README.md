@@ -1,1 +1,2 @@
-# nlw_ia
+# NLW IA
+Evento realizado pela Rocketseat.
